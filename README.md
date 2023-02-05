@@ -3,7 +3,7 @@ The nonprofit foundation Alphabet Soup wants a tool that can help it select the 
 
 # Instructions
 
-1)  To execute the project follow the below commands: git clone https://github.com/BharatGuturi/deep-learning-challenge.git
+1)  To execute the project follow the below commands: git clone https://github.com/BharatGuturi/Alphabet-Soup-Charity-Deep-Learning.git
 
 2)  Connect google colab with the ipynb files.
 
